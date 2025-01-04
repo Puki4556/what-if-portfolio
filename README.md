@@ -1,4 +1,4 @@
-# what-if-portfolio
+# What if portfolio
 This Python script simulates a stock portfolio based on historical investment data provided in a CSV file and reinvests dividends according to a predefined allocation.
 This script get a CSV of data (example included).
 
