@@ -13,7 +13,7 @@ This document will guide you step-by-step on how to run the investment simulatio
    - Click **Install Now** and follow the prompts.
 
 ### 2. **Download the Script and CSV File:**
-   - Ensure you have the files `simulate_portfolio.py` and `stocks_money_transfer_history.csv` in the same folder on your computer.
+   - Ensure you have the files `simulate_portfolio.py` and `stocks_money_invest_history.csv` in the same folder on your computer.
 
 ---
 
