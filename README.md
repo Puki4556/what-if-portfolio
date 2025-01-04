@@ -1,3 +1,5 @@
+# If you don know how to execute a python script: **[follow this instruction](https://github.com/Puki4556/what-if-portfolio/blob/main/How%20to%20execute.md)**
+
 # What if portfolio
 This Python script simulates a stock portfolio based on historical investment data provided in a CSV file and reinvests dividends according to a predefined allocation.
 This script get a CSV of data (example included).
